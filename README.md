@@ -10,7 +10,11 @@ Example image taken from
 
 ![tux](https://raw.githubusercontent.com/pakesson/diy-ecb-penguin/master/Tux.png)
 
+ECB:
+
 ![tux_ecb](https://raw.githubusercontent.com/pakesson/diy-ecb-penguin/master/Tux_ecb.png)
+
+CBC:
 
 ![tux_cbc](https://raw.githubusercontent.com/pakesson/diy-ecb-penguin/master/Tux_cbc.png)
 
