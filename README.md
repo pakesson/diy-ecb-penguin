@@ -32,7 +32,9 @@ Ubuntu packages:
 # Examples
 
 Example image taken from
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tux.png):
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tux.png)
+(License: *Permission to use and/or modify this image is granted provided you
+acknowledge me lewing@isc.tamu.edu and The GIMP if someone asks.*):
 
 ![tux](https://raw.githubusercontent.com/pakesson/diy-ecb-penguin/master/Tux.png)
 
